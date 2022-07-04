@@ -1,0 +1,22 @@
+btns=[
+        {"txt": "Blast", "row": 0, "col": 1, "type": "func", "color": "#5e5e5e"},
+        {"txt": "%", "row": 0, "col": 2, "type": "ope", "color": "#5e5e5e"},
+        {"txt": "C", "row": 0, "col": 3, "type": "func", "color": "#5e5e5e"},
+        {"txt": "⌫", "row": 0, "col": 4, "type": "func", "color": "#5e5e5e"},
+        {"txt": "7", "row": 1, "col": 1, "type": "num", "color": "#949494"},
+        {"txt": "8", "row": 1, "col": 2, "type": "num", "color": "#949494"},
+        {"txt": "9", "row": 1, "col": 3, "type": "num", "color": "#949494"},
+        {"txt": "x", "row": 1, "col": 4, "type": "ope", "color": "#5e5e5e"},
+        {"txt": "4", "row": 2, "col": 1, "type": "num", "color": "#949494"},
+        {"txt": "5", "row": 2, "col": 2, "type": "num", "color": "#949494"},
+        {"txt": "6", "row": 2, "col": 3, "type": "num", "color": "#949494"},
+        {"txt": "-", "row": 2, "col": 4, "type": "ope", "color": "#5e5e5e"},
+        {"txt": "1", "row": 3, "col": 1, "type": "num", "color": "#949494"},
+        {"txt": "2", "row": 3, "col": 2, "type": "num", "color": "#949494"},
+        {"txt": "3", "row": 3, "col": 3, "type": "num", "color": "#949494"},
+        {"txt": "+", "row": 3, "col": 4, "type": "ope", "color": "#5e5e5e"},
+        {"txt": "÷", "row": 4, "col": 1, "type": "ope", "color": "#5e5e5e"},
+        {"txt": "0", "row": 4, "col": 2, "type": "num", "color": "#949494"},
+        {"txt": ".", "row": 4, "col": 3, "type": "num", "color": "#949494"},
+        {"txt": "=", "row": 4, "col": 4, "type": "func", "color": "#c2231d"}
+        ]
